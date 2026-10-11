@@ -28,6 +28,7 @@
 
                 switch (choice)
                 {
+                    
                     case "1":
                         Console.WriteLine("(тук ще добавяме задача)");
                         Console.Write("\n");
@@ -42,7 +43,7 @@
                         Console.Write("\n");
                         break;
                 }
-                Console.Clear();
+
             }
             Console.WriteLine("Довиждане!");
 
